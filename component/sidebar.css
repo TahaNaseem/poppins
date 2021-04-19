@@ -1,0 +1,10 @@
+.side{
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 25%;
+    height: 635px;
+    background-color: #6905db;
+    border-radius: 10px;
+  
+}
